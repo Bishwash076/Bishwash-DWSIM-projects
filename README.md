@@ -1,2 +1,2 @@
 # Bishwash-DWSIM-projects
-Plastic to hydrogen project, Cryogenic CO2 capture, Pyrolysis plant, Alkaline water electrolyser, Multistage hydrogen compresion
+Plastic to hydrogen project, Alkaline water electrolyser, Electrolysis cell
